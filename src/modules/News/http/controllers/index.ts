@@ -1,0 +1,1 @@
+export { NewsController } from './NewsController'

@@ -2,6 +2,7 @@
 import express from 'express';
 import cors from 'cors'
 
+import { newsRouter } from './modules/News/http/routes'
 
 export default class App {
   express: any;
@@ -15,11 +16,16 @@ export default class App {
   setupExpress() {
     this.express = express();
     this.setupMiddlewares();
+    this.setupRoutes();
   }
 
   setupMiddlewares() {
     this.express.use(express.json());
     this.express.use(cors());
+  }
+
+  setupRoutes() {
+    this.express.use('/news', newsRouter)
   }
 
   startServer() {

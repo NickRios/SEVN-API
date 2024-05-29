@@ -1,0 +1,1 @@
+export { INewsRepository } from './INewsRepository';
