@@ -2,7 +2,7 @@
   "news": [
     {
       "id": 1,
-      "category": "Economia",
+      "category": "ECONOMIA",
       "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
       "main_image": "https://www.itatiaia.com.br/economia/2024/01/22/tesouro-capta-us-4-5-bi-no-exterior-com-juros-mais-altos",
       "sub_title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "category": "Economia",
+      "category": "ECONOMIA",
       "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
       "main_image": "https://www.itatiaia.com.br/economia/2024/01/22/tesouro-capta-us-4-5-bi-no-exterior-com-juros-mais-altos",
       "sub_title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -26,9 +26,9 @@
     },
     {
       "id": 3,
-      "category": "Educação",
+      "category": "EDUCACAO",
       "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-      "main_image": "https://www.itatiaia.com.br/brasil/2024/05/27/creche-que-esqueceu-bebe-de-7-meses-apos-o-expediente-e-condenada",
+      "main_image": "https://medias.itatiaia.com.br/dims4/default/b85ee1a/2147483647/strip/true/crop/1280x721+0+67/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F71%2F1eff4df04cf79d1972683febf2d7%2Fcreche.jpg",
       "sub_title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
       "news_data": "2024-05-27T18:05:00",
       "author": "Ana Luisa Sales",
@@ -38,9 +38,9 @@
     },
     {
       "id": 4,
-      "category": "Educação",
+      "category": "EDUCACAO",
       "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-      "main_image": "https://www.itatiaia.com.br/brasil/2024/05/27/creche-que-esqueceu-bebe-de-7-meses-apos-o-expediente-e-condenada",
+      "main_image": "https://medias.itatiaia.com.br/dims4/default/b85ee1a/2147483647/strip/true/crop/1280x721+0+67/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F71%2F1eff4df04cf79d1972683febf2d7%2Fcreche.jpg",
       "sub_title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
       "news_data": "2024-05-27T18:05:00",
       "author": "Ana Luisa Sales",
@@ -50,7 +50,7 @@
     },
     {
       "id": 5,
-      "category": "Entreterimento",
+      "category": "ENTRETERIMENTO",
       "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
       "main_image": "https://medias.itatiaia.com.br/dims4/default/a3b8b00/2147483647/strip/true/crop/1199x675+1+0/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2Ff0%2Fc6cf6d1cdd9a166b22bbdfad54b3%2Flarissa-manoela-vai-e0ed97fc-f943-4310-8f85-40a9fd6e795f.jpg",
       "sub_title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
@@ -62,7 +62,7 @@
     },
     {
       "id": 6,
-      "category": "Entreterimento",
+      "category": "ENTRETERIMENTO",
       "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
       "main_image": "https://medias.itatiaia.com.br/dims4/default/a3b8b00/2147483647/strip/true/crop/1199x675+1+0/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2Ff0%2Fc6cf6d1cdd9a166b22bbdfad54b3%2Flarissa-manoela-vai-e0ed97fc-f943-4310-8f85-40a9fd6e795f.jpg",
       "sub_title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",

@@ -29,7 +29,7 @@ export default class App {
   }
 
   startServer() {
-    const expressPort = parseInt(process.env.EXPRESS_PORT || '3000', 10);
+    const expressPort = parseInt(process.env.EXPRESS_PORT || '3333', 10);
     this.express.listen(expressPort, () => {
       console.log(`Server started on port ${expressPort}`);
     });
